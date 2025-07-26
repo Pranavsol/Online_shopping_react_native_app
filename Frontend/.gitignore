@@ -37,3 +37,6 @@ yarn-error.*
 *.tsbuildinfo
 
 app-example
+API_FIX_README.md
+NETWORK_FIX_SOLUTION.md
+PRICE_FIX_COMPLETE.md
